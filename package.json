@@ -1,9 +1,9 @@
 {
   "name": "react-google-recaptcha-v3-inchina",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React component for google-recaptcha v3 in china fix",
-  "module": "dist/react-google-recaptcha-v3.esm.js",
-  "main": "dist/react-google-recaptcha-v3.cjs.js",
+  "module": "dist/react-google-recaptcha-v3-inchina.esm.js",
+  "main": "dist/react-google-recaptcha-v3-inchina.cjs.js",
   "types": "dist/types/index.d.ts",
   "scripts": {
     "test": "jest --verbose --env=jsdom",
